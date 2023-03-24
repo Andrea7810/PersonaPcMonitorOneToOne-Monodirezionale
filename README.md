@@ -11,3 +11,7 @@ Sintassi in formato JSON per passargli più oggetti con Rested.
 
 Diagramma Uml dell'esercizio.
 
+# ***************
+
+![Immagine 2023-03-24 121835](https://user-images.githubusercontent.com/126260899/227507860-a46976b3-7c01-486d-95b4-51b101e75932.png)
+Application Properties.
